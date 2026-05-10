@@ -20,6 +20,8 @@ The system provides:
 * Workflow automation
 * Customer follow-up automation
 
+➡️ [Phiên bản tiếng Việt](./README_VI.md)
+
 ---
 
 # Tech Stack
@@ -116,7 +118,8 @@ roastmind-ai/
 ---
 
 # Author
-Nguyen Dang Phong
-RoastMind AI Project
-Final Vibe Coding & AI Automation 2026 Course
-CES Global - AI Training Center
+
+* Nguyen Dang Phong  
+* RoastMind AI Project  
+* Final Vibe Coding & AI Automation 2026 Course  
+* CES Global - AI Training Center
